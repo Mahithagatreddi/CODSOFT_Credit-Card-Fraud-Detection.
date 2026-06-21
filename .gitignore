@@ -1,0 +1,11 @@
+# Datasets (Too large for GitHub)
+data/
+*.csv
+
+# Python cached files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
